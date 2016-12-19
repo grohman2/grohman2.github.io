@@ -1,0 +1,1139 @@
+{
+  "settings": {
+    "name": "SKINKING",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "clarus",
+      "title": "Clarus",
+      "styling": {
+        "primaryColor": "#0dba26",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Raleway",
+        "textFont": "Raleway",
+        "isRoundedButtons": true
+      }
+    },
+    "versionFirst": "3.9.2",
+    "uniqCompNum": 139,
+    "versionPublish": "3.10.3",
+    "favicon": "@PROJECT_PATH@/assets/images/queen-128x128-89.png",
+    "noImageResize": "true",
+    "scrollAnimation": "",
+    "path": "@PROJECT_PATH@",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-89092599-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Виниловый скин для iPhone 5S/SE купить в интернет-магазине SkinKing с доставкой по всей России",
+        "meta_descr": "Приобрести скин на телефон или смартфон в интернет-магазине SkinKing. Только качественные виниловые наклейки на телефон от SkinKing.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "H1": {
+              "text-align": "left",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "30px"
+            },
+            "P": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_params": {
+            "autoplay": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": "7",
+            "slides": [
+              {
+                "contentAlign": "left",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/2000x1500-27.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+                "overlay": false,
+                "showTitle": true,
+                "title": "Виниловый скин iPhone 5S/SE за 490₽",
+                "showText": true,
+                "text": "Добавьте непревзойденную защиту и уникальность вашему устройству, без утолщения корпуса.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-wallet mbr-iconfont mbr-iconfont-btn\"></span>КУПИТЬ</a>",
+                "innerImage": "@PROJECT_PATH@/assets/images/img-5806-2000x1501-55.jpg"
+              },
+              {
+                "contentAlign": "left",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/2000x1500-73.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+                "overlay": true,
+                "overlayOpacity": "0.7",
+                "overlayColor": "#fefefc",
+                "showTitle": true,
+                "title": "Виниловый скин iPhone 5/SE за 490₽",
+                "showText": true,
+                "text": "Больше никаких отпечатков пальцев. Держать телефон в руках станет еще приятнее!",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-wallet mbr-iconfont mbr-iconfont-btn\"></span>КУПИТЬ</a>",
+                "innerImage": "@PROJECT_PATH@/assets/images/img-5807-2000x1562-80.jpg"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": false
+          },
+          "_anchor": "header1-1e",
+          "articleLayout": false,
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "text1",
+          "_styles": {
+            "H3": {
+              "font-size": "30px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "text1-3u",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tripattern1-.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showText": false
+          },
+          "title": "Преимущества",
+          "text": "Ut euismod odio metus, non volutpat elit varius eu. Sed blandit ligula id sodales hendrerit. Vivamus molestie massa"
+        },
+        {
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 320,
+              "src": "@THEME_PATH@/components/_images/about.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Our work - it is your stability",
+          "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit quisque elementum volutpat massa ac interdum velit imperdiet vel lacinia massa viverra dolor quis congue pellentesque.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content14",
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#666666"
+            }
+          },
+          "_anchor": "content14-3t",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tripattern1-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "columns": 6,
+            "showImages": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "shield",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "НЕПРЕВЗОЙДЕННАЯ ЗАЩИТА ОТ ЦАРАПИН",
+          "text1": "Скин сделан из самоклеящейся пленки 3M, а специальное покрытие Scotchcal™ обеспечивает дополнительную защиту от царапин, потертостей и пыли",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "layers",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title2": "ПРОСТО НАКЛЕИТЬ.ОШИБКИ ИСКЛЮЧЕНЫ",
+          "text2": "Благодаря уникальной клеевой системе Comply™ при нанесении не образуются пузыри. Скин идеально повторяют контуры телефона и не заклеивает камеру, отверстие для зарядного устройства и другие элементы девайса",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "happy",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title3": "Скин подарит НОВЫЕ ОЩУЩЕНИЯ",
+          "text3": "Скин приятен на ощупь, он отлично маскирует уже имеющиеся повреждения. Больше никаких отпечатков пальцев и необходимости постоянно очищать поверхность гаджета",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "cash",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title4": "НЕДОРОГОЙ",
+          "text4": "Скин — прекрасная альтернатива неудобным и дорогим чехлам. В отличие от этих громоздких аксессуаров, наклейка защищает устройство, не ограничивая доступ к управляющим элементам.",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "clock",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title5": "ДОЛГОВЕЧНЫЙ",
+          "text5": "В среднем скин прослужит 3-5 лет.<br>Он практически не стирается и не тускнеет в течение всего срока службы &nbsp;&nbsp;<br>",
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "envelope",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title6": "Быстрая доставка по всей россии",
+          "text6": "Время доставки для Москвы и Санкт-Петербурга - 4-7 дней, для остальных городов - 7-10 дней. "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "12px"
+            },
+            "P": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "SPAN": {
+              "font-size": "30px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          },
+          "_anchor": "header5-1f",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tripattern1dark-2000x2000-33.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#bbbbbb",
+            "inverse": false,
+            "showMedia": true,
+            "showTitle": true,
+            "showSubtitle": true,
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "@THEME_PATH@/components/_images/info.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/y2t0BakPxMc",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<span>Как наклеить</span>",
+          "text": "Короткий ролик о том, как просто и быстро наклеить скин на телефон.",
+          "text1": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+          "text2": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+          "text3": "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">Купить</a>"
+        },
+        {
+          "buttons": "<a href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
+          "item1": "<i>1</i>Came up with idea",
+          "item2": "<i>2</i>Any time with conection",
+          "item3": "<i>3</i>Realisation of idea",
+          "item4": "<i>4</i>Get project result",
+          "item5": "<i>5</i>Publication of results",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content12",
+          "_styles": {
+            "P": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "text-align": "left"
+            },
+            "H2": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "content12-2b",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tripattern1-5.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showText": false,
+            "columns": "3",
+            "showImages": false
+          },
+          "title": "Отзывы клиентов",
+          "text": "Suspendisse gravida tristique ante vel pretium. Curabitur pellentes que non urna in euismod. Pellentesque vestibulum, enim a accumsan convallis, enim sem iaculis sem, id aliquam ",
+          "media1": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 640,
+              "src": "@THEME_PATH@/components/_images/testi_item_1.jpg",
+              "active": true
+            }
+          },
+          "text1": "Классная наклейка , я довольна! Красиво, недорого и удобно! <br>Все кто видел, хотят такую же!!!&nbsp;<br>",
+          "name1": "Татьяна,",
+          "position1": "Санкт-Петербург",
+          "media2": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 640,
+              "src": "@THEME_PATH@/components/_images/testi_item_2.jpg",
+              "active": true
+            }
+          },
+          "text2": "Цена демократичная, удобна в использовании, не скользит, не отклеивается. Рекомендую.  ",
+          "name2": "Антон,",
+          "position2": "Москва",
+          "media3": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 640,
+              "src": "@THEME_PATH@/components/_images/testi_item_3.jpg",
+              "active": true
+            }
+          },
+          "text3": "Давно хотела карбоновую наклейку для своего iPhone 5SE, так как скажем, не особо аккуратна. Спасибо, мне понравилось. Теперь мой iPhone стильно выглядит и защищен <br>от царапин.&nbsp;<br>p.s. Отдельная благодарность за быструю доставку и прилагающуюся инструкцию)",
+          "name3": "Аня,",
+          "position3": "Норильск"
+        },
+        {
+          "buttons": "<a href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
+          "item1": "<i>1</i>Came up with idea",
+          "item2": "<i>2</i>Any time with conection",
+          "item3": "<i>3</i>Realisation of idea",
+          "item4": "<i>4</i>Get project result",
+          "item5": "<i>5</i>Publication of results",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content12",
+          "_styles": {
+            "P": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          },
+          "_anchor": "content12-2n",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tripattern1-6.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "showTitle": false,
+            "showText": false,
+            "columns": 3,
+            "showImages": false
+          },
+          "title": "Testimonian",
+          "text": "Suspendisse gravida tristique ante vel pretium. Curabitur pellentes que non urna in euismod. Pellentesque vestibulum, enim a accumsan convallis, enim sem iaculis sem, id aliquam ",
+          "media1": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 640,
+              "src": "@THEME_PATH@/components/_images/testi_item_1.jpg",
+              "active": true
+            }
+          },
+          "text1": "Защищает от потертости и царапин. Остался доволен.&nbsp;",
+          "name1": "Андрей,",
+          "position1": "Иркутск",
+          "media2": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 640,
+              "src": "@THEME_PATH@/components/_images/testi_item_2.jpg",
+              "active": true
+            }
+          },
+          "text2": "Весь салон в карбоне, впервые вижу наклейку на телефон. Решил попробовать, круто смотрится и в салоне тоже. Круто, что не скользит. ",
+          "name2": "Костя,",
+          "position2": "Выборг",
+          "media3": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 640,
+              "src": "@THEME_PATH@/components/_images/testi_item_3.jpg",
+              "active": true
+            }
+          },
+          "text3": "Плюсы скина в том, что смотрится гораздо эффектнее, чем силиконовые чехлы и не остаются пятна от жирных пальцев. Парни, рекомендую.  ",
+          "name3": "Владимир,",
+          "position3": "Санкт-Петербург"
+        },
+        {
+          "category1": "Aliquam erat volutpat",
+          "category2": "Phasellus non ullamcorper",
+          "category3": "Curabitur faucibus viverra",
+          "category4": "Fusce mattis iaculis",
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseOne\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>This is a accordion Title 1</a>",
+          "title2": "well quality management",
+          "title3": "cooperative work",
+          "title4": "brainstorming",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "accordion2",
+          "_styles": {
+            "H2": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "P": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "14px"
+            },
+            "DIV": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "14px",
+              "color": "#999999"
+            }
+          },
+          "_anchor": "accordion2-l",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "tabsLeft": "3",
+            "tabsCenter": "2",
+            "tabsRight": "4",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showText": false,
+            "columns": "3"
+          },
+          "title": "Вопросы-ответы",
+          "text": "",
+          "titleL1": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseOne\" aria-expanded=\"true\" aria-controls=\"collapseOne\">Как быстро я получу свой СКИн?<br><span></span></a>",
+          "textL1": "<p>Срок доставки почтой России для Москвы и Санкт-Петербурга - <b>4-7 дней</b>, для остальных городов -&nbsp;<b>7-10 дней</b>. Учтите, что перед праздниками срок доставки может немного увеличиться.</p>",
+          "titleL2": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Каков срок службы скина? Как долго скин держится на устройстве?<br><span></span></a>",
+          "textL2": "<p>Гарантия производителя пленки составляет 5 лет, но реальная долговечность наклейки определяется суровостью условий эксплуатации. В среднем скин служит 3 года.</p>",
+          "titleL3": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Останутся ли следы после снятия скина?<br><span></span></a>",
+          "textL3": "<p>Нет. Скин легко наклеивается и снимается, не оставляя следов клея и не повреждая поверхность.</p>",
+          "titleL4": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">Collapsible Group Item #4<span></span></a>",
+          "textL4": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
+          "titleL5": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">Collapsible Group Item #5<span></span></a>",
+          "textL5": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
+          "titleL6": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">Collapsible Group Item #6<span></span></a>",
+          "textL6": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
+          "titleC1": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseOne\" aria-expanded=\"true\" aria-controls=\"collapseOne\">Что, если я не получу письмо со скином?</a>",
+          "textC1": "Если письмо не дойдет по вине почты России или из-за нашей ошибки, то мы <b>бесплатно</b> отправим вам новое. Просто напишите на&nbsp;<a href=\"mailto:support@skinking.pro\">support@skinking.pro</a>&nbsp;и укажите в письме данные заказа (фамилия, имя, домашний адрес)",
+          "titleC2": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Не заклеит ли скин разъемы телефона?<br><span></span></a>",
+          "textC2": "<p>Мы гарантируем, что скин не заклеит камеру, отверстия для зарядки и прочие функциональные элементы устройства при правильном нанесении скина. Скин уже вырезан, остается его только наклеить и наслаждаться новым, стильным обликом своего девайса.</p>",
+          "titleC3": "",
+          "textC3": "",
+          "titleC4": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">Collapsible Group Item #4<span></span></a>",
+          "textC4": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
+          "titleC5": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">Collapsible Group Item #5<span></span></a>",
+          "textC5": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
+          "titleC6": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">Collapsible Group Item #6<span></span></a>",
+          "textC6": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
+          "titleR1": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseOne\" aria-expanded=\"true\" aria-controls=\"collapseOne\">Сложно ли наклеить скин?<span></span></a>",
+          "textR1": "<p>Совсем нет, в письме со скином вы найдете подробную бумажную инструкцию. Также доступна&nbsp;<a href=\"https://youtu.be/y2t0BakPxMc\" target=\"_blank\">видео-инструкция</a><a href=\"https://youtu.be/y2t0BakPxMc\" target=\"_blank\"></a><a href=\"https://youtu.be/y2t0BakPxMc\" target=\"_blank\"></a>.</p>",
+          "titleR2": "",
+          "textR2": "",
+          "titleR3": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Легко ли удалить скин?<br><span></span></a>",
+          "textR3": "<p>Да, просто подцепите скин за уголок и аккуратно отделите его. После этого его можно наклеить снова.</p>",
+          "titleR4": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">Не нашли ответ на вопрос?<br><span></span></a>",
+          "textR4": "<p>Воспользуйтесь службой поддержки <a href=\"mailto:support@skinking.pro\">support</a><span style=\"font-size: 13px; line-height: 1.8em; background-color: inherit;\"><a href=\"mailto:support@skinking.pro\">@skinking.pro</a></span></p>",
+          "titleR5": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">Collapsible Group Item #5<span></span></a>",
+          "textR5": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
+          "titleR6": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">Collapsible Group Item #6<span></span></a>",
+          "textR6": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>"
+        },
+        {
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 320,
+              "src": "@THEME_PATH@/components/_images/about.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "14px"
+            },
+            ".btn": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          },
+          "_anchor": "contacts1-g",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showText": true,
+            "googleMap": {
+              "address": "СПБ, улица мира дом 3",
+              "placeId": "ChIJ8ddAuEMxlkYR7zlq5CEYej0",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "title": "Для какого устройства вам нужен скин?",
+          "text": "Хотите скин для ноутбука или для другой модели телефона? Напишите какого скина вам не хватает и в самое ближайшее время вы сможете его купить у нас.&nbsp;<br>Мы отправим ответ вам на почту.",
+          "form": {
+            "title": "MESSAGE",
+            "action": "vawocidox@cartelera.org",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" type=\"submit\" role=\"button\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">Отправить</a>",
+          "title1": "<span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>Наш Адрес",
+          "text1": "Санкт-Петербург, ул. Мира д.3 <br>БЦ \"Содружество\"",
+          "title2": "<span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>e-mail",
+          "text2": "<p><a href=\"mailto:support@skinking.pro\">support@skinking.pro</a></p>",
+          "title3": "",
+          "text3": ""
+        },
+        {
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo_white.png"
+            }
+          },
+          "adress": "198 West 21th Street, Suite 721, New York NY5109 Pacific Coast Highway, Los Angeles CA",
+          "phone": "<a href=\"tel:+12 (3) 456 7890 123\" class=\"adr-link\"><b>Phone:</b> +12 (3) 456 7890 123</a>",
+          "email": "<a href=\"mailto:sample@sample.com\" class=\"adr-link\"><b>Email:</b> sample@sample.com</a>",
+          "titleNews": "our news",
+          "mediaNews1": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/foot_news_1.jpg"
+            }
+          },
+          "textNews1": "<a href=\"http://mobirise.com\">Pellentesque interdum imper diet nibh in porttitor</a><span class=\"date\">15/05/16</span>",
+          "mediaNews2": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/foot_news_2.jpg"
+            }
+          },
+          "textNews2": "<a href=\"http://mobirise.com\">Pellentesque interdum imper diet nibh in porttitor</a><span class=\"date\">15/05/16</span>",
+          "titleTweet": "lastest Links",
+          "tweet1": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
+          "tweet2": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
+          "tweet3": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
+          "tweet4": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
+          "titleInst": "photos",
+          "mediaInst1": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_1.jpg"
+            }
+          },
+          "mediaInst2": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_2.jpg"
+            }
+          },
+          "mediaInst3": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_3.jpg"
+            }
+          },
+          "mediaInst4": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_4.jpg"
+            }
+          },
+          "mediaInst5": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_5.jpg"
+            }
+          },
+          "mediaInst6": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_6.jpg"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "footer2-p",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showMedia": false,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColor": "#212121",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515"
+          },
+          "copyright": "2016 Skin King. Сделано с любовью в СПб."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "30px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "social1-1i",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/00-cfblk-0-2000x888-73.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": true,
+            "odnoklassniki": true
+          },
+          "text": "Поделись страницей"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#989898"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#989898"
+            },
+            ".link, .dropdown-item": {
+              "color": "#989898",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-family": "'Ubuntu', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#222"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#989898",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#222"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#222!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-2o",
+          "_params": {
+            "bgColor": "#fff",
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Ubuntu",
+              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "css": "'Ubuntu', sans-serif"
+            },
+            "fontColor": "#989898",
+            "fontHoverColor": "#222",
+            "transparent": false,
+            "sticky": true,
+            "logo": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/111-463x128-4.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text1-3u\">ПРЕИМУЩЕСТВА</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-1f\">как наклеить</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#accordion2-l\">Вопросы-ответы</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-g\">Контакты</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-8\"><br></a></li>"
+        }
+      ]
+    },
+    "success_payment.html": {
+      "settings": {
+        "title": "Виниловый скин для iPhone 5S/SE купить в интернет-магазине SkinKing с доставкой по всей России",
+        "meta_descr": "Приобрести скин на телефон или смартфон в интернет-магазине SkinKing. Только качественные виниловые наклейки на телефон от SkinKing."
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#989898"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#989898"
+            },
+            ".link, .dropdown-item": {
+              "color": "#989898",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-family": "'Ubuntu', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#222"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#989898",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#222"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#222!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-2o",
+          "_params": {
+            "bgColor": "#fff",
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Ubuntu",
+              "url": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "css": "'Ubuntu', sans-serif"
+            },
+            "fontColor": "#989898",
+            "fontHoverColor": "#222",
+            "transparent": false,
+            "sticky": true,
+            "logo": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/111-463x128-4.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-1f\">ПРЕИМУЩЕСТВА</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-1f\">как наклеить</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#accordion2-l\">Вопросы-ответы</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-g\">Контакты</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-8\"><br></a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "P": {
+              "color": "#999999",
+              "text-align": "right",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "H1": {
+              "color": "#000000",
+              "font-size": "36px",
+              "text-align": "right",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          },
+          "_params": {
+            "autoplay": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "contentAlign": "left",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/bg-white-2000x1500-96.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+                "overlay": false,
+                "showTitle": true,
+                "title": "Оплата прошла успешно!",
+                "showText": true,
+                "text": "Мы уже начали собирать заказ и в самое скорое время в ваш почтовый ящик придет письмо со скином. По любым вопросам пишите на <a href=\"mailto:support@skinking.pro\">support@skinking.pro</a>. Спасибо за заказ. &nbsp;",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a><a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
+                "innerImage": "@PROJECT_PATH@/assets/images/hand-2000x3000-29.jpg"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": false
+          },
+          "_anchor": "header3-2x",
+          "articleLayout": false,
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left-white.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right-white.svg"
+        },
+        {
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo_white.png"
+            }
+          },
+          "adress": "198 West 21th Street, Suite 721, New York NY5109 Pacific Coast Highway, Los Angeles CA",
+          "phone": "<a href=\"tel:+12 (3) 456 7890 123\" class=\"adr-link\"><b>Phone:</b> +12 (3) 456 7890 123</a>",
+          "email": "<a href=\"mailto:sample@sample.com\" class=\"adr-link\"><b>Email:</b> sample@sample.com</a>",
+          "titleNews": "our news",
+          "mediaNews1": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/foot_news_1.jpg"
+            }
+          },
+          "textNews1": "<a href=\"http://mobirise.com\">Pellentesque interdum imper diet nibh in porttitor</a><span class=\"date\">15/05/16</span>",
+          "mediaNews2": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/foot_news_2.jpg"
+            }
+          },
+          "textNews2": "<a href=\"http://mobirise.com\">Pellentesque interdum imper diet nibh in porttitor</a><span class=\"date\">15/05/16</span>",
+          "titleTweet": "lastest Links",
+          "tweet1": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
+          "tweet2": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
+          "tweet3": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
+          "tweet4": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
+          "titleInst": "photos",
+          "mediaInst1": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_1.jpg"
+            }
+          },
+          "mediaInst2": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_2.jpg"
+            }
+          },
+          "mediaInst3": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_3.jpg"
+            }
+          },
+          "mediaInst4": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_4.jpg"
+            }
+          },
+          "mediaInst5": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_5.jpg"
+            }
+          },
+          "mediaInst6": {
+            "image": {
+              "class": "resp-img",
+              "src": "@THEME_PATH@/components/_images/inst_6.jpg"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "footer2-p",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showMedia": false,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColor": "#212121",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515"
+          },
+          "copyright": "2016 Skin King. Сделано с любовью в СПб."
+        }
+      ]
+    }
+  }
+}
