@@ -1,13 +1,1 @@
-﻿
-# Please enter the commit message for your changes. Lines starting
-# with '#' will be ignored, and an empty message aborts the commit.
-# On branch master
-# Your branch is up-to-date with 'origin/master'.
-#
-# Changes to be committed:
-#	new file:   "\320\235\320\276\320\262\321\213\320\271 \320\264\320\276\320\272\321\203\320\274\320\265\320\275\321\202 \320\262 \321\204\320\276\321\200\320\274\320\260\321\202\320\265 RTF.rtf"
-#
-# Changes not staged for commit:
-#	deleted:    "\320\235\320\276\320\262\321\213\320\271 \320\264\320\276\320\272\321\203\320\274\320\265\320\275\321\202 \320\262 \321\204\320\276\321\200\320\274\320\260\321\202\320\265 RTF.rtf"
-#
-
+﻿TEST CHANGE
