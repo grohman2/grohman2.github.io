@@ -109,7 +109,7 @@
 
                                         <div class="mbr-section-btn">
   <form target="_blank" method="POST"
-         action="https://money.yandex.ru/quickpay/confirm.xml">
+         action="https://money.yandex.ru/quickpay/confirm.xml" onsubmit="ga('send', 'event', 'yandexbutton', 'click');">
   <input type="hidden" name="receiver" value="41001532887999">
  <input type="hidden" name="formcomment" value="Компания Skin King">
  <input type="hidden" name="short-dest" value="Скин карбон чёрный для iPhone 5S/SE">
@@ -125,7 +125,7 @@
  <input type="hidden" name="paymentType" value="AC">
     <input type="hidden" name="successURL" value="http://www.skinking.pro/success_payment">
     
- <button onclick="ga('send', 'event', 'yandexbutton', 'click');" class="btn btn-primary" type="submit">
+ <button class="btn btn-primary" type="submit">
        
  <span class="etl-icon icon-wallet mbr-iconfont mbr-iconfont-btn" style="font-size: 20px;">
       </span>Купить&nbsp;
