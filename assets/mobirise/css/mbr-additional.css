@@ -523,7 +523,17 @@ a:hover,
 #header1-1e H1 {
   text-align: left;
   font-family: 'Ubuntu', sans-serif;
-  font-size: 30px;
+font-size: 30px;}
+  
+@media (max-width: 767px)
+style.css:5678
+.header1-1e span H1, .header5 h1 span, .header7 h1 span, .header8 h1 span, .carousel-item h1 {
+    font-size: 100px;
+    line-height: 1.42em;
+    text-align: left;
+    margin-top: 0;
+}
+
 }
 #header1-1e P {
   font-family: 'Ubuntu', sans-serif;

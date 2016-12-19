@@ -5403,7 +5403,7 @@ li.text-white a{
 
 /*Header*/
 .styled{position: relative;}
-.styled:before {display: inline-block; margin-right: 7px; content: ''; width: 7px; height: 7px; position: relative; background: #0dba26; }
+.styled:before {display: none; margin-right: 7px; content: ''; width: 7px; height: 7px; position: relative; background: #0dba26; }
 
 /*menu1*/
 .mbr-table {display: table; width: 100%;}
@@ -5676,7 +5676,7 @@ li.text-white a{
 }
 @media (max-width: 767px){
   .header6 h1 span,.header5 h1 span, .header7 h1 span, .header8 h1 span,
-  .carousel-item h1 {font-size: 30px; line-height: 1.42em; text-align: center; margin-top: 0;}
+  .carousel-item h1 {font-size: 30px; line-height: 1.42em; text-align: left; margin-top: 0;}
   .carousel-item .styled:before {display: inline-block; position: relative; bottom: 0; left: 5px; height: 5px; width: 5px;}
   .header6 p,.header5 p, .header7 p, .header8 p,
   .carousel-item p {font-size: 13px; line-height: 1.42em; text-align: center;}
