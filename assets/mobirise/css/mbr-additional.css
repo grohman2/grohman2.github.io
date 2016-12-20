@@ -32,6 +32,7 @@
 
 
 
+
 /*TITLE*/
 .btn,
 .alert,
@@ -536,6 +537,7 @@ a:hover,
 #header1-1e P {
   font-family: 'Ubuntu', sans-serif;
   text-align: left;
+  color: #989898;
 }
 #header1-1e .btn {
   font-family: 'Ubuntu', sans-serif;
@@ -543,12 +545,16 @@ a:hover,
 #text1-3u H3 {
   font-size: 30px;
   font-family: 'Ubuntu', sans-serif;
-  text-align: left;
+  text-align: center;
 }
 #content14-3t P {
   font-size: 14px;
   font-family: 'Ubuntu', sans-serif;
   color: #666666;
+}
+#content14-3t H4 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 14px;
 }
 #header5-1f .btn {
   font-family: 'Ubuntu', sans-serif;
@@ -557,14 +563,17 @@ a:hover,
 #header5-1f P {
   font-family: 'Ubuntu', sans-serif;
   font-size: 14px;
+  text-align: center;
 }
 #header5-1f SPAN {
   font-size: 30px;
   font-family: 'Ubuntu', sans-serif;
+  text-align: center;
 }
 #content12-2b P {
   font-family: 'Ubuntu', sans-serif;
   text-align: left;
+  color: #333333;
 }
 #content12-2b H2 {
   font-family: 'Ubuntu', sans-serif;
@@ -572,6 +581,7 @@ a:hover,
 }
 #content12-2n P {
   font-family: 'Ubuntu', sans-serif;
+  color: #333333;
 }
 #content12-2n CITE {
   font-family: 'Ubuntu', sans-serif;
@@ -579,12 +589,13 @@ a:hover,
 #content12-2n H4 {
   font-family: 'Ubuntu', sans-serif;
 }
-#slider5-3w P {
+#slider5-3y P {
   font-family: 'Ubuntu', sans-serif;
+  color: #989898;
 }
-#slider5-3w H3 {
-  font-size: 30px;
+#slider5-3y H3 {
   font-family: 'Ubuntu', sans-serif;
+  font-size: 30px;
 }
 #header8-3x SPAN {
   font-family: 'Ubuntu', sans-serif;
@@ -596,25 +607,23 @@ a:hover,
   text-align: center;
   font-size: 14px;
 }
-#accordion2-l H2 {
+#header8-3x .btn {
+  font-family: 'Ubuntu', sans-serif;
+}
+#accordion2-41 H2 {
   font-family: 'Ubuntu', sans-serif;
   font-size: 30px;
 }
-#accordion2-l P {
+#accordion2-41 P {
   font-family: 'Ubuntu', sans-serif;
   font-size: 14px;
-  text-align: center;
-}
-#accordion2-l DIV {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 14px;
-  color: #999999;
   text-align: center;
 }
 #contacts1-g P {
   font-family: 'Ubuntu', sans-serif;
   font-size: 14px;
   text-align: center;
+  color: #666666;
 }
 #contacts1-g .btn {
   font-family: 'Ubuntu', sans-serif;
@@ -642,15 +651,15 @@ a:hover,
   color: #ffffff;
 }
 #menu1-2o .navbar-toggler {
-  color: #989898;
+  color: #999999;
 }
 #menu1-2o .close-icon::before,
 #menu1-2o .close-icon::after {
-  background-color: #989898;
+  background-color: #999999;
 }
 #menu1-2o .link,
 #menu1-2o .dropdown-item {
-  color: #989898;
+  color: #999999;
   font-family: 'Ubuntu', sans-serif;
 }
 #menu1-2o .link {
@@ -683,7 +692,7 @@ a:hover,
   background: #fff;
 }
 #menu1-2o .bg-color.transparent .link {
-  color: #989898;
+  color: #999999;
   transition: none;
 }
 #menu1-2o .bg-color.transparent.opened .link {
@@ -701,6 +710,7 @@ a:hover,
 
 
 
+
 #menu1-2o .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -708,15 +718,15 @@ a:hover,
   color: #ffffff;
 }
 #menu1-2o .navbar-toggler {
-  color: #989898;
+  color: #999999;
 }
 #menu1-2o .close-icon::before,
 #menu1-2o .close-icon::after {
-  background-color: #989898;
+  background-color: #999999;
 }
 #menu1-2o .link,
 #menu1-2o .dropdown-item {
-  color: #989898;
+  color: #999999;
   font-family: 'Ubuntu', sans-serif;
 }
 #menu1-2o .link {
@@ -749,7 +759,7 @@ a:hover,
   background: #fff;
 }
 #menu1-2o .bg-color.transparent .link {
-  color: #989898;
+  color: #999999;
   transition: none;
 }
 #menu1-2o .bg-color.transparent.opened .link {
@@ -772,6 +782,9 @@ a:hover,
   color: #000000;
   font-size: 36px;
   text-align: right;
+  font-family: 'Ubuntu', sans-serif;
+}
+#header3-2x .btn {
   font-family: 'Ubuntu', sans-serif;
 }
 #footer2-p SPAN {
