@@ -48,7 +48,7 @@
                 <div class="mbr-table-cell logo">
 
                     <div class="navbar-brand">
-                        <a href="index.html" class="navbar-logo"><img src="assets/images/111-463x128-4.png" alt="Mobirise"></a>
+                        <a href="index.html" class="navbar-logo"><img src="assets/images/111-463x128-4.png" alt="Skin King"></a>
                         
                     </div>
 
@@ -85,7 +85,33 @@
                                         <h1 class="mbr-section-title styled display-1">Оплата прошла успешно!</h1>
                                         <p class="mbr-section-lead lead display-1">Мы уже начали собирать заказ и в самое скорое время в ваш почтовый ящик придет письмо со скином. По любым вопросам пишите на <a href="mailto:support@skinking.pro">support@skinking.pro</a>. Спасибо за заказ. &nbsp;</p>
 
-                                        <div class="mbr-section-btn"><a href="http://mobirise.com" class="btn btn-primary" role="button"><span class="etl-icon icon-wallet mbr-iconfont mbr-iconfont-btn"></span>Купить еще один</a></div>
+                                        <div class="mbr-section-btn">
+  <form target="_blank" method="POST"
+         action="https://money.yandex.ru/quickpay/confirm.xml" onsubmit="ga('send', 'event', 'yandexbutton_paypage', 'click');">
+  <input type="hidden" name="receiver" value="41001532887999">
+ <input type="hidden" name="formcomment" value="Компания Skin King">
+ <input type="hidden" name="short-dest" value="Скин карбон чёрный для iPhone 5S/SE">
+ <input type="hidden" name="label" value="Скин карбон чёрный для iPhone 5S/SE">
+ <input type="hidden" name="quickpay-form" value="shop">
+ <input type="hidden" name="targets" value="Скин карбон чёрный для iPhone 5S/SE">
+  <input type="hidden" name="sum" value="490" data-type="number" >
+ <input type="hidden" name="need-fio" value="true">
+ <input type="hidden" name="need-email" value="true" >
+ <input type="hidden" name="need-phone" value="false">
+ <input type="hidden" name="need-address" value="true">
+ <input type="hidden" name="paymentType" value="AC">
+    <input type="hidden" name="successURL" value="http://www.skinking.pro/success_payment">
+    
+ <button class="btn btn-primary" type="submit">
+       
+ <span class="etl-icon icon-wallet mbr-iconfont mbr-iconfont-btn" style="font-size: 20px;">
+      </span>Купить&nbsp;
+  
+  </button> 
+  </form>
+</div>
+										
+										
                                     </div>
 
                                     <div class="col-md-6">
