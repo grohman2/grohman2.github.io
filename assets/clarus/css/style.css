@@ -5403,7 +5403,7 @@ li.text-white a{
 
 /*Header*/
 .styled{position: relative;}
-.styled:before {display: none; margin-right: 7px; content: ''; width: 7px; height: 7px; position: relative; background: #0dba26; }
+.styled:before {display: inline-block; margin-right: 7px; content: ''; width: 7px; height: 7px; position: relative; background: #0dba26; }
 
 /*menu1*/
 .mbr-table {display: table; width: 100%;}
@@ -5420,7 +5420,7 @@ li.text-white a{
 .navbar-toggler[aria-expanded="true"] i:before,.navbar-toggler[aria-expanded="true"] em:before {transform: rotate(45deg); -webkit-transform: rotate(45deg);  top: 0px;}
 .navbar-toggler[aria-expanded="true"] i:after,.navbar-toggler[aria-expanded="true"] em:after {transform: rotate(-45deg);-webkit-transform: rotate(-45deg); bottom: 0px;}
 .navbar-dropdown.opened .navbar-brand, .navbar-dropdown.opened .navbar-toggler {display: block;}
-.navbar-dropdown .navbar-logo img {max-width: 200px; width: auto; max-height: 150px; height: auto;}
+.navbar-dropdown .navbar-logo img {max-width: 150px; width: auto; max-height: 50px; height: auto;}
 .navbar-dropdown.navbar-short .navbar-logo img {height: auto;}
 .nav.navbar-nav.nav-dropdown{background: transparent!important;}
 .navbar-toggleable-xl~.navbar-toggler {display: block;}
@@ -5676,7 +5676,7 @@ li.text-white a{
 }
 @media (max-width: 767px){
   .header6 h1 span,.header5 h1 span, .header7 h1 span, .header8 h1 span,
-  .carousel-item h1 {font-size: 30px; line-height: 1.42em; text-align: left; margin-top: 0;}
+  .carousel-item h1 {font-size: 30px; line-height: 1.42em; text-align: center; margin-top: 0;}
   .carousel-item .styled:before {display: inline-block; position: relative; bottom: 0; left: 5px; height: 5px; width: 5px;}
   .header6 p,.header5 p, .header7 p, .header8 p,
   .carousel-item p {font-size: 13px; line-height: 1.42em; text-align: center;}
@@ -5940,7 +5940,7 @@ li.text-white a{
 .list-numb i, .list-numb em{position: relative; float: left; font-weight: 700; width: 30px; height: 30px; display: block; border-radius: 50%; text-align: center; line-height: 25px; border: 1px solid #f0f0f0; margin-right: 7px; font-style: normal;}
 .list-numb li {margin-bottom: 20px; line-height: 30px;}
 .bg {position:absolute; left:0px; top:0px; width:100%; height:100%; overflow:hidden; background-position: 50% 50%; background-repeat: no-repeat; background-attachment: scroll; -webkit-background-size: cover;-moz-background-size: cover; -o-background-size: cover;-ms-background-size: cover; background-size: cover; backface-visibility: hidden;}
-.testi-item {position: relative; width: 100%; display: inline-block; border: 0px solid #f0f0f0; margin-bottom: 10px;}
+.testi-item {position: relative; width: 100%; display: inline-block; border: 1px solid #f0f0f0; margin-bottom: 50px;}
 .testi-item .bg {width: 40%;}
 .testi-item .text {width: 60%; padding: 45px 30px 45px 60px;}
 .testi-item.left .bg {right: 0px; left: auto;}
@@ -6045,7 +6045,7 @@ li.text-white a{
 .contacts h4{ display: inline-block;}
 .contacts .mbr-iconfont{font-size: 22px; padding-right: 5px;}
 .form-control-label{ display: none;}
-.form-control{ position: relative; display: inline-block; width: 100%; font-size: 13px; line-height: 1em; padding: 0px 0px 10px; border: 0px none; border-bottom: 1px solid #a1a1a1; height: 30px; border-radius: 0px; font-family: 'Ubuntu', sans-serif; color: #55595c; background-color: transparent;}
+.form-control{ position: relative; display: inline-block; width: 100%; font-size: 13px; line-height: 1em; padding: 0px 0px 10px; border: 0px none; border-bottom: 1px solid #a1a1a1; height: 30px; border-radius: 0px; font-family: 'Raleway', sans-serif; color: #55595c; background-color: transparent;}
 textarea.form-control{ height: 100px; margin-bottom: 40px;}
 .contacts1 .btn{ width: 170px; display: block; margin: 0 auto; color: #222;}
 .is-builder .submit{ color: inherit !important;}

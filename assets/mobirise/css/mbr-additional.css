@@ -24,6 +24,14 @@
 
 
 
+
+
+
+
+
+
+
+
 /*TITLE*/
 .btn,
 .alert,
@@ -53,7 +61,7 @@ cite,
 .panel-title a,
 .tags,
 .item-title h3 {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -67,17 +75,17 @@ cite,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .mbr-author-name {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .mbr-author-desc {
   font-family: 'Raleway', sans-serif;
   font-style: normal;
 }
 .mbr-plan-title {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
@@ -521,25 +529,16 @@ a:hover,
   color: #0dba26;
 }
 #header1-1e H1 {
-  text-align: left;
+  text-align: center;
   font-family: 'Ubuntu', sans-serif;
-font-size: 30px;}
-  
-@media (max-width: 767px)
-style.css:5678
-.header1-1e span H1, .header5 h1 span, .header7 h1 span, .header8 h1 span, .carousel-item h1 {
-    font-size: 100px;
-    line-height: 1.42em;
-    text-align: left;
-    margin-top: 0;
-}
-
+  font-size: 30px;
 }
 #header1-1e P {
   font-family: 'Ubuntu', sans-serif;
+  text-align: left;
 }
 #header1-1e .btn {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 #text1-3u H3 {
   font-size: 30px;
@@ -557,6 +556,7 @@ style.css:5678
 }
 #header5-1f P {
   font-family: 'Ubuntu', sans-serif;
+  font-size: 14px;
 }
 #header5-1f SPAN {
   font-size: 30px;
@@ -573,23 +573,57 @@ style.css:5678
 #content12-2n P {
   font-family: 'Ubuntu', sans-serif;
 }
+#content12-2n CITE {
+  font-family: 'Ubuntu', sans-serif;
+}
+#content12-2n H4 {
+  font-family: 'Ubuntu', sans-serif;
+}
+#slider5-3w P {
+  font-family: 'Ubuntu', sans-serif;
+}
+#slider5-3w H3 {
+  font-size: 30px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#header8-3x SPAN {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 30px;
+}
+#header8-3x P {
+  color: #333333;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  font-size: 14px;
+}
 #accordion2-l H2 {
   font-family: 'Ubuntu', sans-serif;
+  font-size: 30px;
 }
 #accordion2-l P {
   font-family: 'Ubuntu', sans-serif;
   font-size: 14px;
+  text-align: center;
 }
 #accordion2-l DIV {
   font-family: 'Ubuntu', sans-serif;
   font-size: 14px;
   color: #999999;
+  text-align: center;
 }
 #contacts1-g P {
   font-family: 'Ubuntu', sans-serif;
   font-size: 14px;
+  text-align: center;
 }
 #contacts1-g .btn {
+  font-family: 'Ubuntu', sans-serif;
+}
+#contacts1-g H1 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 30px;
+}
+#contacts1-g H4 {
   font-family: 'Ubuntu', sans-serif;
 }
 #footer2-p SPAN {

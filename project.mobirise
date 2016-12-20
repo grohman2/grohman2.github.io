@@ -19,9 +19,9 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 139,
+    "uniqCompNum": 142,
     "versionPublish": "3.10.3",
-    "favicon": "@PROJECT_PATH@/assets/images/queen-128x128-89.png",
+    "favicon": "@PROJECT_PATH@/assets/images/queen.png",
     "noImageResize": "true",
     "scrollAnimation": "",
     "path": "@PROJECT_PATH@",
@@ -32,7 +32,7 @@
       "settings": {
         "main": true,
         "title": "Виниловый скин для iPhone 5S/SE купить в интернет-магазине SkinKing с доставкой по всей России",
-        "meta_descr": "Приобрести скин на телефон или смартфон в интернет-магазине SkinKing. Только качественные виниловые наклейки на телефон от SkinKing.",
+        "meta_descr": "Приобрести скин на телефон или смартфон в интернет-магазине SkinKing.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -45,62 +45,76 @@
           "_name": "header1",
           "_styles": {
             "H1": {
-              "text-align": "left",
+              "text-align": "center",
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-size": "30px"
             },
             "P": {
               "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "text-align": "left"
             },
             ".btn": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             }
           },
           "_params": {
             "autoplay": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "timeout": "7",
+            "timeout": "3",
             "slides": [
               {
                 "contentAlign": "left",
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/2000x1500-27.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/-.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
                 "overlay": false,
                 "showTitle": true,
-                "title": "Виниловый скин iPhone 5S/SE за 490₽",
+                "title": "Виниловый скин iPhone 5S/SE",
                 "showText": true,
-                "text": "Добавьте непревзойденную защиту и уникальность вашему устройству, без утолщения корпуса.",
+                "text": "Добавьте непревзойденную защиту и уникальность Вашему устройству без утолщения корпуса.<br><br><b>490 руб, бесплатная доставка по России</b><br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-wallet mbr-iconfont mbr-iconfont-btn\"></span>КУПИТЬ</a>",
-                "innerImage": "@PROJECT_PATH@/assets/images/img-5806-2000x1501-55.jpg"
+                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-wallet mbr-iconfont mbr-iconfont-btn\"></span>Купить</a>",
+                "innerImage": "@PROJECT_PATH@/assets/images/skinking-pro-1-white-1.jpg"
               },
               {
                 "contentAlign": "left",
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/2000x1500-73.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-2.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "overlay": true,
-                "overlayOpacity": "0.7",
-                "overlayColor": "#fefefc",
+                "overlay": false,
                 "showTitle": true,
-                "title": "Виниловый скин iPhone 5/SE за 490₽",
+                "title": "Виниловый скин iPhone 5S/SE",
                 "showText": true,
-                "text": "Больше никаких отпечатков пальцев. Держать телефон в руках станет еще приятнее!",
+                "text": "Больше никаких отпечатков пальцев. Держать телефон в руках станет еще приятнее!<br><br><b>490 руб, бесплатная доставка по России</b><br>",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-wallet mbr-iconfont mbr-iconfont-btn\"></span>КУПИТЬ</a>",
-                "innerImage": "@PROJECT_PATH@/assets/images/img-5807-2000x1562-80.jpg"
+                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-wallet mbr-iconfont mbr-iconfont-btn\"></span>Купить</a>",
+                "innerImage": "@PROJECT_PATH@/assets/images/skinking-pro-2-white-5.jpg"
+              },
+              {
+                "contentAlign": "left",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/-3jpg.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+                "overlay": false,
+                "showTitle": true,
+                "title": "Виниловый скин iPhone 5S/SE",
+                "showText": true,
+                "text": "Cтильная защита для вашего гаджета, придающая устройству уникальность и подчеркивающая индивидуальность владельца<br><br><b>490 руб, бесплатная доставка по России</b><br>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-wallet mbr-iconfont mbr-iconfont-btn\"></span>КУпить</a>",
+                "innerImage": "@PROJECT_PATH@/assets/images/skinking-pro-3-white-4.jpg"
               }
             ],
             "fullScreen": true,
             "bgColor": "#ffffff",
-            "showBullets": false
+            "showBullets": true
           },
           "_anchor": "header1-1e",
           "articleLayout": false,
@@ -205,7 +219,7 @@
             }
           },
           "title1": "НЕПРЕВЗОЙДЕННАЯ ЗАЩИТА ОТ ЦАРАПИН",
-          "text1": "Скин сделан из самоклеящейся пленки 3M, а специальное покрытие Scotchcal™ обеспечивает дополнительную защиту от царапин, потертостей и пыли",
+          "text1": "Скин сделан из самоклеящейся пленки 3M, а специальное покрытие обеспечивает дополнительную защиту от царапин, потертостей и пыли",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont",
@@ -245,7 +259,7 @@
             }
           },
           "title4": "НЕДОРОГОЙ",
-          "text4": "Скин — прекрасная альтернатива неудобным и дорогим чехлам. В отличие от этих громоздких аксессуаров, наклейка защищает устройство, не ограничивая доступ к управляющим элементам.",
+          "text4": "Скин — прекрасная альтернатива неудобным и дорогим чехлам. В отличие от этих громоздких аксессуаров, наклейка защищает устройство, не ограничивая доступ к управляющим элементам",
           "media5": {
             "iconFont": {
               "class": "mbr-iconfont",
@@ -259,7 +273,7 @@
             }
           },
           "title5": "ДОЛГОВЕЧНЫЙ",
-          "text5": "В среднем скин прослужит 3-5 лет.<br>Он практически не стирается и не тускнеет в течение всего срока службы &nbsp;&nbsp;<br>",
+          "text5": "В среднем скин прослужит 1-2 года.<br>Он практически не стирается и не тускнеет в течение всего срока службы<br>",
           "media6": {
             "iconFont": {
               "class": "mbr-iconfont",
@@ -273,7 +287,7 @@
             }
           },
           "title6": "Быстрая доставка по всей россии",
-          "text6": "Время доставки для Москвы и Санкт-Петербурга - 4-7 дней, для остальных городов - 7-10 дней. "
+          "text6": "Время доставки для Москвы и Санкт-Петербурга - 4-7 дней, для остальных городов - 7-10 дней. В редких случаях Почта России может немного задерживать доставку.<br>"
         },
         {
           "_tags": [
@@ -288,7 +302,8 @@
             },
             "P": {
               "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "14px"
             },
             "SPAN": {
               "font-size": "30px",
@@ -300,7 +315,7 @@
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/tripattern1dark-2000x2000-33.jpg",
             "bgColor": "#fff",
@@ -325,7 +340,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/y2t0BakPxMc",
+              "src": "https://youtu.be/y2t0BakPxMc?vq=hd720",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -434,6 +449,14 @@
             "P": {
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "CITE": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "H4": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             }
           },
           "_anchor": "content12-2n",
@@ -494,6 +517,148 @@
           "position3": "Санкт-Петербург"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider5",
+          "_params": {
+            "autoplay": true,
+            "timeout": "2",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "slides": [
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/logo.jpg",
+                    "link": "http://tpvrussia.ru/",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/logo.png",
+                    "link": "http://mpclinic.ru/",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": true
+                  }
+                }
+              },
+              {
+                "active": true,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/logo-ru.png",
+                    "link": "http://orbitum.com/ru/",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/bercut-logo-8.png",
+                    "link": "http://www.bercut.com/",
+                    "active": true,
+                    "alt": "",
+                    "title": "",
+                    "linkInNewWindow": true
+                  }
+                }
+              }
+            ],
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/tripattern1.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showText": true,
+            "showBullets": false,
+            "visibleSlides": "4",
+            "showArrows": true
+          },
+          "_anchor": "slider5-3w",
+          "title": "Сотрудничество с компаниями",
+          "subtitle": "Уже более 100 сотрудников крупных компаний Санкт-Петербурга используют наши скины.",
+          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left12.svg",
+          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right13.svg",
+          "_styles": {
+            "P": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "H3": {
+              "font-size": "30px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header8",
+          "_anchor": "header8-3x",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tripattern1-small.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.7,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "<span>Купить скин</span>",
+          "text": "Хотите порадовать близких или себя оригинальным подарком? Виниловый скин — это то, что вам нужно! Наклейки Skin King - отличный подарок к любому празднику и на любой вкус.<br><br>490 руб, бесплатная доставка по России",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\">Купить</a>",
+          "_styles": {
+            "SPAN": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "30px"
+            },
+            "P": {
+              "color": "#333333",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "text-align": "center",
+              "font-size": "14px"
+            }
+          }
+        },
+        {
           "category1": "Aliquam erat volutpat",
           "category2": "Phasellus non ullamcorper",
           "category3": "Curabitur faucibus viverra",
@@ -509,18 +674,21 @@
           "_styles": {
             "H2": {
               "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "30px"
             },
             "P": {
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "14px"
+              "font-size": "14px",
+              "text-align": "center"
             },
             "DIV": {
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-size": "14px",
-              "color": "#999999"
+              "color": "#999999",
+              "text-align": "center"
             }
           },
           "_anchor": "accordion2-l",
@@ -549,7 +717,7 @@
           "title": "Вопросы-ответы",
           "text": "",
           "titleL1": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseOne\" aria-expanded=\"true\" aria-controls=\"collapseOne\">Как быстро я получу свой СКИн?<br><span></span></a>",
-          "textL1": "<p>Срок доставки почтой России для Москвы и Санкт-Петербурга - <b>4-7 дней</b>, для остальных городов -&nbsp;<b>7-10 дней</b>. Учтите, что перед праздниками срок доставки может немного увеличиться.</p>",
+          "textL1": "<p>Срок доставки почтой России для Москвы и Санкт-Петербурга - <b>4-7 дней</b>, для остальных городов -&nbsp;<b>7-10 дней</b>. Учтите, что перед праздниками срок доставки может немного увеличиться. В редких случаях Почта России может немного задерживать доставку.</p>",
           "titleL2": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Каков срок службы скина? Как долго скин держится на устройстве?<br><span></span></a>",
           "textL2": "<p>Гарантия производителя пленки составляет 5 лет, но реальная долговечность наклейки определяется суровостью условий эксплуатации. В среднем скин служит 3 года.</p>",
           "titleL3": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Останутся ли следы после снятия скина?<br><span></span></a>",
@@ -561,7 +729,7 @@
           "titleL6": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">Collapsible Group Item #6<span></span></a>",
           "textL6": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
           "titleC1": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseOne\" aria-expanded=\"true\" aria-controls=\"collapseOne\">Что, если я не получу письмо со скином?</a>",
-          "textC1": "Если письмо не дойдет по вине почты России или из-за нашей ошибки, то мы <b>бесплатно</b> отправим вам новое. Просто напишите на&nbsp;<a href=\"mailto:support@skinking.pro\">support@skinking.pro</a>&nbsp;и укажите в письме данные заказа (фамилия, имя, домашний адрес)",
+          "textC1": "В случае проблем с доставкой свяжитесь с нами по электронной почте <br><a href=\"mailto:support@skinking.pro\">support@skinking.pro</a>&nbsp;и укажите в письме данные заказа (фамилия, имя, домашний адрес). Мы обязательно решим проблему в кратчайшие сроки.",
           "titleC2": "<a data-toggle=\"collapse\" data-parent=\"#accordionCenter\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Не заклеит ли скин разъемы телефона?<br><span></span></a>",
           "textC2": "<p>Мы гарантируем, что скин не заклеит камеру, отверстия для зарядки и прочие функциональные элементы устройства при правильном нанесении скина. Скин уже вырезан, остается его только наклеить и наслаждаться новым, стильным обликом своего девайса.</p>",
           "titleC3": "",
@@ -576,8 +744,8 @@
           "textR1": "<p>Совсем нет, в письме со скином вы найдете подробную бумажную инструкцию. Также доступна&nbsp;<a href=\"https://youtu.be/y2t0BakPxMc\" target=\"_blank\">видео-инструкция</a><a href=\"https://youtu.be/y2t0BakPxMc\" target=\"_blank\"></a><a href=\"https://youtu.be/y2t0BakPxMc\" target=\"_blank\"></a>.</p>",
           "titleR2": "",
           "textR2": "",
-          "titleR3": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Легко ли удалить скин?<br><span></span></a>",
-          "textR3": "<p>Да, просто подцепите скин за уголок и аккуратно отделите его. После этого его можно наклеить снова.</p>",
+          "titleR3": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Что, если у меня не получается наклеить скин с первого раза?<span></span></a>",
+          "textR3": "<p>Не переживайте, до того как вы прогладите скин его можно снять и наклеить снова. Подробности на <a href=\"https://youtu.be/y2t0BakPxMc\" target=\"_blank\">видео</a>.</p>",
           "titleR4": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">Не нашли ответ на вопрос?<br><span></span></a>",
           "textR4": "<p>Воспользуйтесь службой поддержки <a href=\"mailto:support@skinking.pro\">support</a><span style=\"font-size: 13px; line-height: 1.8em; background-color: inherit;\"><a href=\"mailto:support@skinking.pro\">@skinking.pro</a></span></p>",
           "titleR5": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">Collapsible Group Item #5<span></span></a>",
@@ -609,9 +777,19 @@
             "P": {
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "14px"
+              "font-size": "14px",
+              "text-align": "center"
             },
             ".btn": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "H1": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "30px"
+            },
+            "H4": {
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             }
@@ -635,17 +813,17 @@
             "showTitle": true,
             "showText": true,
             "googleMap": {
-              "address": "СПБ, улица мира дом 3",
+              "address": "Санкт-Петербург, ул. Мира д.3 ",
               "placeId": "ChIJ8ddAuEMxlkYR7zlq5CEYej0",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "title": "Для какого устройства вам нужен скин?",
-          "text": "Хотите скин для ноутбука или для другой модели телефона? Напишите какого скина вам не хватает и в самое ближайшее время вы сможете его купить у нас.&nbsp;<br>Мы отправим ответ вам на почту.",
+          "title": "Ваши отзывы и предложения",
+          "text": "Хотите скин для ноутбука или для другой модели телефона? Напишите какого скина вам не хватает и в самое ближайшее время вы сможете купить его у нас. Также оставьте свой отзыв или задайте вопрос о продукте.<br><br>",
           "form": {
             "title": "MESSAGE",
-            "action": "vawocidox@cartelera.org",
+            "action": "support@skinking.pro",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -673,9 +851,9 @@
           },
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" type=\"submit\" role=\"button\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">Отправить</a>",
           "title1": "<span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>Наш Адрес",
-          "text1": "Санкт-Петербург, ул. Мира д.3 <br>БЦ \"Содружество\"",
-          "title2": "<span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>e-mail",
-          "text2": "<p><a href=\"mailto:support@skinking.pro\">support@skinking.pro</a></p>",
+          "text1": "Санкт-Петербург, <br>ул. Мира д.3 <br>БЦ \"Содружество\"",
+          "title2": "<span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>e-mail<br>",
+          "text2": "<p>По любым вопросам пишите на &nbsp;<a href=\"mailto:support@skinking.pro\">support@skinking.pro</a></p>",
           "title3": "",
           "text3": ""
         },
@@ -792,7 +970,7 @@
           "_anchor": "social1-1i",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/00-cfblk-0-2000x888-73.jpg",
@@ -803,11 +981,11 @@
             "overlayColor": "#222",
             "facebook": true,
             "twitter": true,
-            "google": true,
+            "google": false,
             "vkontakte": true,
             "odnoklassniki": true
           },
-          "text": "Поделись страницей"
+          "text": "Поделитесь страницей в соцсетях<br><br>"
         },
         {
           "_styles": {
@@ -891,14 +1069,14 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text1-3u\">ПРЕИМУЩЕСТВА</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-1f\">как наклеить</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#accordion2-l\">Вопросы-ответы</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-g\">Контакты</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-8\"><br></a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text1-3u\">ПРЕИМУЩЕСТВА</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-1f\">как наклеить</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content12-2b\">Отзывы</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#accordion2-l\">Вопросы-ответы</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-g\">Контакты и обратная связь</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-8\"><br></a></li>"
         }
       ]
     },
     "success_payment.html": {
       "settings": {
         "title": "Виниловый скин для iPhone 5S/SE купить в интернет-магазине SkinKing с доставкой по всей России",
-        "meta_descr": "Приобрести скин на телефон или смартфон в интернет-магазине SkinKing. Только качественные виниловые наклейки на телефон от SkinKing."
+        "meta_descr": "Приобрести скин на телефон или смартфон в интернет-магазине SkinKing."
       },
       "components": [
         {
@@ -983,7 +1161,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-1f\">ПРЕИМУЩЕСТВА</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-1f\">как наклеить</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#accordion2-l\">Вопросы-ответы</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-g\">Контакты</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-8\"><br></a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text1-3u\">ПРЕИМУЩЕСТВА</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-1f\">как наклеить</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content12-2b\">Отзывы</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#accordion2-l\">Вопросы-ответы</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-g\">Контакты и обратная связь</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-8\"><br></a></li>"
         },
         {
           "_tags": [
