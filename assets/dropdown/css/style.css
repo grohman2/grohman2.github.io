@@ -131,6 +131,16 @@
       .nav-dropdown .link.dropdown-toggle[aria-expanded="true"] {
         margin: 0;
         padding: 1.667em 2.583em 1.667em 1.667em; }
+		
+		/*фикс на айфоне*/
+		@media (max-width: 480px) {
+  .nav-dropdown .link.dropdown-toggle[aria-expanded="true"] {padding: 1em 1em 1em 1em;}
+
+  
+  }
+		
+		
+		
   .nav-dropdown .link::after,
   .nav-dropdown .dropdown-item::after {
     color: inherit; }
@@ -148,6 +158,15 @@
     margin: 0;
     padding-bottom: 1.25rem;
     padding-top: 1.25rem; }
+	
+	/*фикс на айфоне*/
+		@media (max-width: 480px) {
+  .nav-dropdown .dropdown-menu {padding-bottom: 1.25rem;
+    padding-top: 0px; }
+  
+  }
+	
+	
   .nav-dropdown .dropdown-submenu {
     left: 100%;
     margin-left: 0.125rem;
