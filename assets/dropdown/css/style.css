@@ -29,7 +29,7 @@
       height: 3.125rem;
       transition: all 0.3s ease-in-out; }
   .navbar-dropdown .mbr-table-cell {
-    height: 5.625rem; }
+    height: 0; }
   .navbar-dropdown .navbar-caption {
     font-family: "Montserrat";
     font-size: 1rem;

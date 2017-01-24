@@ -5457,7 +5457,7 @@ li.text-white a{
 /*menu2*/
 .container.container-table{display: table;}
 .mbr-table.mbr-table_top {transition: all .4s;}
-.navbar-short .mbr-table.mbr-table_top {margin-top: -3em;}
+.navbar-short .mbr-table.mbr-table_top {margin-top: -50px;}
 .menu2 .mbr-table.mbr-table_top .mbr-table-cell {height: 3em;}
 .menu2 .navbar-dropdown .mbr-table-cell {height: 4em;}
 .menu2 .navbar {background: transparent;}
