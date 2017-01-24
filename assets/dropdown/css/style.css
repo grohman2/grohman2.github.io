@@ -31,8 +31,8 @@
   .navbar-dropdown .mbr-table-cell {
     height: 0; }
   .navbar-dropdown .navbar-caption {
-    font-family: "Montserrat";
-    font-size: 1rem;
+    font-family: "Ubuntu";
+    font-size: 12px;
     font-weight: 700;
     white-space: normal; }
     .navbar-dropdown .navbar-caption, .navbar-dropdown .navbar-caption:hover {
