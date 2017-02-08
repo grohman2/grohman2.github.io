@@ -5725,7 +5725,7 @@ li.text-white a{
 }
 
 /*header5*/
-.header5 h1 {font-size: 60px; line-height: 1.2em; text-align: left; color: #fff;}
+.header5 h1 {font-size: 30px; line-height: 1.2em; text-align: center; color: #fff;}
 .header5 p {font-size: 16px; line-height: 1.42em; text-align: left; color: #989898;}
 .header5 .styled:before {display: none;}
 .header5 .styled span {position: relative;}
